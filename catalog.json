@@ -1,0 +1,355 @@
+{
+ "version": 1,
+ "updatedAt": "2026-10-11T01:32:40Z",
+ "note": "Seed catalog. Every track is published by its author on ccMixter under a Creative Commons Attribution licence; see CREDITS.md.",
+ "tracks": [
+  {
+   "id": "cc32265",
+   "title": "Give It Up",
+   "artist": "Steven M Bryant",
+   "genre": "edm",
+   "durationSec": 227,
+   "bitrate": "320K",
+   "sampleRate": "44.1k",
+   "lufs": -12.8,
+   "quality": "hq",
+   "status": "published",
+   "hue": 200,
+   "url": "audio/cc32265.mp3",
+   "license": {
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/"
+   },
+   "sourceUrl": "https://ccmixter.org/files/stevieb357/32265",
+   "qc": {
+    "trackId": "cc32265",
+    "score": 90,
+    "quality": "hq",
+    "checks": [
+     {
+      "kind": "format",
+      "status": "ok",
+      "value": "MP3 320K / 44.1kHz",
+      "noteKey": null
+     },
+     {
+      "kind": "spectrum",
+      "status": "ok",
+      "value": "22.1 kHz · 0.44%",
+      "noteKey": null
+     },
+     {
+      "kind": "loudness",
+      "status": "warn",
+      "value": "-12.8 LUFS · -0.0 dBTP",
+      "noteKey": "qc.loudness.too_quiet"
+     },
+     {
+      "kind": "dynamicRange",
+      "status": "ok",
+      "value": "DR 12",
+      "noteKey": null
+     },
+     {
+      "kind": "duplicate",
+      "status": "ok",
+      "value": "0 hits",
+      "noteKey": null
+     }
+    ],
+    "analyzedAt": "2026-10-11T01:32:05.940875Z"
+   },
+   "credit": "Ft: Madam Snowflake, Subliminal"
+  },
+  {
+   "id": "cc28350",
+   "title": "Forever (strech mix)",
+   "artist": "cdk",
+   "genre": "edm",
+   "durationSec": 238,
+   "bitrate": "320K",
+   "sampleRate": "44.1k",
+   "lufs": -12.1,
+   "quality": "sq",
+   "status": "published",
+   "hue": 188,
+   "url": "audio/cc28350.mp3",
+   "license": {
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/"
+   },
+   "sourceUrl": "https://ccmixter.org/files/cdk/28350",
+   "qc": {
+    "trackId": "cc28350",
+    "score": 78,
+    "quality": "sq",
+    "checks": [
+     {
+      "kind": "format",
+      "status": "ok",
+      "value": "MP3 320K / 44.1kHz",
+      "noteKey": null
+     },
+     {
+      "kind": "spectrum",
+      "status": "warn",
+      "value": "19.0 kHz · 0.00%",
+      "noteKey": "qc.spectrum.low_hf"
+     },
+     {
+      "kind": "loudness",
+      "status": "warn",
+      "value": "-12.1 LUFS · -0.1 dBTP",
+      "noteKey": "qc.loudness.too_quiet"
+     },
+     {
+      "kind": "dynamicRange",
+      "status": "ok",
+      "value": "DR 9",
+      "noteKey": null
+     },
+     {
+      "kind": "duplicate",
+      "status": "ok",
+      "value": "0 hits",
+      "noteKey": null
+     }
+    ],
+    "analyzedAt": "2026-10-11T01:32:09.801227Z"
+   },
+   "credit": "Ft: queeniemusic"
+  },
+  {
+   "id": "cc61840",
+   "title": "Road Back To You",
+   "artist": "Allerlei_von_Nicolai",
+   "genre": "edm",
+   "durationSec": 262,
+   "bitrate": "320K",
+   "sampleRate": "44.1k",
+   "lufs": -13.5,
+   "quality": "hq",
+   "status": "published",
+   "hue": 212,
+   "url": "audio/cc61840.mp3",
+   "license": {
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/"
+   },
+   "sourceUrl": "https://ccmixter.org/files/Allerlei_von_Nicolai/61840",
+   "qc": {
+    "trackId": "cc61840",
+    "score": 90,
+    "quality": "hq",
+    "checks": [
+     {
+      "kind": "format",
+      "status": "ok",
+      "value": "MP3 320K / 44.1kHz",
+      "noteKey": null
+     },
+     {
+      "kind": "spectrum",
+      "status": "ok",
+      "value": "20.2 kHz · 0.13%",
+      "noteKey": null
+     },
+     {
+      "kind": "loudness",
+      "status": "warn",
+      "value": "-13.5 LUFS · -0.6 dBTP",
+      "noteKey": "qc.loudness.too_quiet"
+     },
+     {
+      "kind": "dynamicRange",
+      "status": "ok",
+      "value": "DR 10",
+      "noteKey": null
+     },
+     {
+      "kind": "duplicate",
+      "status": "ok",
+      "value": "0 hits",
+      "noteKey": null
+     }
+    ],
+    "analyzedAt": "2026-10-11T01:32:19.338109Z"
+   },
+   "credit": "Ft: Admiral Bob"
+  },
+  {
+   "id": "cc22335",
+   "title": "Imbolc (Secret Last Virus Mix)",
+   "artist": "Aamu",
+   "genre": "bass",
+   "durationSec": 249,
+   "bitrate": "320K",
+   "sampleRate": "48k",
+   "lufs": -19.8,
+   "quality": "hq",
+   "status": "published",
+   "hue": 0,
+   "url": "audio/cc22335.mp3",
+   "license": {
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/"
+   },
+   "sourceUrl": "https://ccmixter.org/files/aamu/22335",
+   "qc": {
+    "trackId": "cc22335",
+    "score": 90,
+    "quality": "hq",
+    "checks": [
+     {
+      "kind": "format",
+      "status": "ok",
+      "value": "MP3 320K / 48kHz",
+      "noteKey": null
+     },
+     {
+      "kind": "spectrum",
+      "status": "ok",
+      "value": "20.5 kHz · 0.02%",
+      "noteKey": null
+     },
+     {
+      "kind": "loudness",
+      "status": "warn",
+      "value": "-19.8 LUFS · -1.6 dBTP",
+      "noteKey": "qc.loudness.too_quiet"
+     },
+     {
+      "kind": "dynamicRange",
+      "status": "ok",
+      "value": "DR 13",
+      "noteKey": null
+     },
+     {
+      "kind": "duplicate",
+      "status": "ok",
+      "value": "0 hits",
+      "noteKey": null
+     }
+    ],
+    "analyzedAt": "2026-10-11T01:32:27.033327Z"
+   },
+   "credit": "Ft: artemisstrong"
+  },
+  {
+   "id": "cc17432",
+   "title": "Silence Await",
+   "artist": "cdk",
+   "genre": "chill",
+   "durationSec": 199,
+   "bitrate": "320K",
+   "sampleRate": "44.1k",
+   "lufs": -19.3,
+   "quality": "sq",
+   "status": "published",
+   "hue": 235,
+   "url": "audio/cc17432.mp3",
+   "license": {
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/"
+   },
+   "sourceUrl": "https://ccmixter.org/files/cdk/17432",
+   "qc": {
+    "trackId": "cc17432",
+    "score": 78,
+    "quality": "sq",
+    "checks": [
+     {
+      "kind": "format",
+      "status": "ok",
+      "value": "MP3 320K / 44.1kHz",
+      "noteKey": null
+     },
+     {
+      "kind": "spectrum",
+      "status": "warn",
+      "value": "20.0 kHz · 0.00%",
+      "noteKey": "qc.spectrum.low_hf"
+     },
+     {
+      "kind": "loudness",
+      "status": "warn",
+      "value": "-19.3 LUFS · -4.4 dBTP",
+      "noteKey": "qc.loudness.too_quiet"
+     },
+     {
+      "kind": "dynamicRange",
+      "status": "ok",
+      "value": "DR 11",
+      "noteKey": null
+     },
+     {
+      "kind": "duplicate",
+      "status": "ok",
+      "value": "0 hits",
+      "noteKey": null
+     }
+    ],
+    "analyzedAt": "2026-10-11T01:32:30.805588Z"
+   },
+   "credit": "Ft: oldDog"
+  },
+  {
+   "id": "cc14246",
+   "title": "Midnight Theme (cdk mix)",
+   "artist": "cdk",
+   "genre": "chill",
+   "durationSec": 192,
+   "bitrate": "320K",
+   "sampleRate": "44.1k",
+   "lufs": -15.4,
+   "quality": "hq",
+   "status": "published",
+   "hue": 250,
+   "url": "audio/cc14246.mp3",
+   "license": {
+    "name": "CC BY 3.0",
+    "url": "https://creativecommons.org/licenses/by/3.0/"
+   },
+   "sourceUrl": "https://ccmixter.org/files/cdk/14246",
+   "qc": {
+    "trackId": "cc14246",
+    "score": 90,
+    "quality": "hq",
+    "checks": [
+     {
+      "kind": "format",
+      "status": "ok",
+      "value": "MP3 320K / 44.1kHz",
+      "noteKey": null
+     },
+     {
+      "kind": "spectrum",
+      "status": "ok",
+      "value": "20.0 kHz · 0.02%",
+      "noteKey": null
+     },
+     {
+      "kind": "loudness",
+      "status": "warn",
+      "value": "-15.4 LUFS · -1.5 dBTP",
+      "noteKey": "qc.loudness.too_quiet"
+     },
+     {
+      "kind": "dynamicRange",
+      "status": "ok",
+      "value": "DR 11",
+      "noteKey": null
+     },
+     {
+      "kind": "duplicate",
+      "status": "ok",
+      "value": "0 hits",
+      "noteKey": null
+     }
+    ],
+    "analyzedAt": "2026-10-11T01:32:40.695216Z"
+   },
+   "credit": "Ft: Admiral Bob"
+  }
+ ]
+}
